@@ -4,7 +4,10 @@ This Repository Contains hardware for adapting a cheap Karaoke DSP board to euro
 It turns one of these:
 ![s-l1600](https://github.com/Owen-Patrick/SoftSynthetics-DSP/assets/24224361/9b5cc46a-0e61-43e6-b041-3dde96d3d9aa)
 
-into an 10HP eurorack stereo multi-effects module with some fun voltage control via:
+
+
+into an 10HP eurorack stereo multi-effects module with some fun clock modulation voltage control:
+![DSP built](<v1.0/built.jpg>)
 
 
 ## What's provided
