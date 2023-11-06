@@ -32,7 +32,7 @@ It's also not the prettiest in constuction and requires some pretty cosy bends o
 *The DSP processor board mounts to the interface.
 *The cables fit together that way you'd expect: x to the clock in, in, Lout, Rout to the DSP PCB, and 5v to power in of the DSP. 
 
-If I have time i'll make a little diagram at some point ;). In the meantime I'd love for someone to come along a make the perfect, least body layout!
+If I have time i'll make a little diagram at some point! until then it mostly makes sense.
 
 
 ## Mentions 
